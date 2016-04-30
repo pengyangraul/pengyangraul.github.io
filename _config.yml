@@ -2,7 +2,7 @@
 title: "Yang Peng's Home Page"
 email: yang.peng@fu-berlin.de
 description: > # this means to ignore newlines until "baseurl:"
-    Yang Peng is a 3rd-year PhD student in theoretical condensed matter Physics.
+    Yang Peng is a 3rd-year PhD student in theoretical condensed matter Physics in Freie Universität Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pengyangraul.github.io" # the base hostname & protocol for your site
 
