@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Big Data in Time</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <!--   Big thanks to Ole Petter Bang for http://remarkjs.com/ -->
+    <style type="text/css">
+      /* @import url(https://fonts.googleapis.com/css?family=Georgia);*/
+      /* @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);*/
+
+      body { font-family: 'Georgia';letter-spacing:0.025em;}
+      h1, h2, h3 {
+        font-family: 'Georgia';
+        font-weight: normal;
+      }
+      .remark-slide-content h1 { font-size: 2.4em; color:#606060;font-weight: bold;letter-spacing:0.05em}
+      .remark-slide-content h2 { font-size: 1.55em;color:#606060;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+      .remark-slide-content  h3 { font-size: 1.4em;color:#606060;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+      .remark-slide-content p,ol,ul { font-size: 1.2em; }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .remark-fading { z-index: 9; } 
+        
+      /* Thanks to http://www.partage-it.com/animez-vos-presentations-remark-js/  (in French) */
+      .remark-slide-container {transition: opacity 0.5s ease-out;opacity: 0;}
+      .remark-visible {transition: opacity 0.5s ease-out;opacity: 1;}
+        
+      /* Two-column layout */
+      .left-column {
+        width: 50%;
+        float: left;
+      }
+      .right-column {
+        width: 49%;
+        float: right;
+        padding-top: 0em;
+        margin-top: 0em;
+        text-align: left;
+      }    
+      .footnote {  
+        position:absolute;
+        bottom: 1em;
+        left: 14em;
+        font-size: 0.7em;
+       }
+      .title {font-size: 3.3em; color:#606060;font-weight:bold;letter-spacing:0.05em}
+      .subtitle {font-size: 1.4em}
+      .author {font-size: 1.4em; color:#606060;font-weight:bold;letter-spacing:0.02em}  
+      .coauthor {font-size: 1.0em; color:#606060;font-weight:bold;letter-spacing:0.02em}  
+      .institution {font-size: 1.0em;}
+      .date {font-size: 1.0em;font-style: italic}
+    
+      .cite {font-size: 0.8em; color:#33AA99;font-style: italic}
+      .strike {color:salmon;text-decoration:line-through}
+        
+      /*.remark-slide-content{background-color:#F8F8FF}*/
+      /* See resources.js for list of styles */  
+        
+      a {text-decoration: none; color: #666666;text-align:center; width: 24%}
+      /*Setting link properties is particular, do not change order below*/   
+      a:visited {color:#666666}
+      a:hover {color:#33AA99}  
+      a:active, a#active {color:#FF9700;} 
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle
+
+.title[Big Data in Time]     
+.subtitle[Progress and Challenges from Oceanography] 
+&nbsp;  
+&nbsp;
+&nbsp;              
+&nbsp;              
+&nbsp;              
+.author[Jonathan Lilly] 
+<!--.center[[www.jmlilly.net](http://www.jmlilly.net)]-->        
+.institution[NorthWest Research Associates, Seattle]      
+&nbsp;              
+.coauthor[Sofia Olhede<sup>1</sup>, Adam Sykulski<sup>1,2</sup>, Jeffrey Early<sup>2</sup>]  
+.institution[<sup>1</sup>University College London, <sup>2</sup>NWRA]      
+&nbsp;  
+&nbsp;
+.date[January 8, 2016]   
+&nbsp;          
+&nbsp;          
+&nbsp;          
+.center[[{www.jmlilly.net}](http://www.jmlilly.net)]       
+        
+.footnote[Created with [{Remark.js}](http://remarkjs.com/) using [{Markdown}](https://daringfireball.net/projects/markdown/) +  [{MathJax}](https://www.mathjax.org/)]
+
+---
+class: center
+#  What is &ldquo;Big&rdquo; Data?   
+            
+---
+class: center, middle     
+# Thank you!   
+        
+.center[Visit [{www.jmlilly.net}](http://www.jmlilly.net)  for papers, this talk, and a Matlab toolbox of all numerical code.]       
+    
+        
+ .center[.footnote[P.S.  Like the way this presentation looks?  Here's a [{template}](http://www.jmlilly.net/liminal/talks/template.html).]]       
+<!-- This is an inline integral: `\(\int_a^bf(x)dx\)`  -->
+<!-- $$\int_{-\infty}^\infty e^{i \omega t}$$-->      
+<!-- <img style="width:100%"  src="/Users/lilly/Desktop/Dropbox/Projects/matern/matern_snapshot.png"> -->
+        
+    </textarea>
+    <!-- Javascript libraries from remote location -->
+    <!--<script src="https://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript">
+    </script>-->
+    <!--<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>--> 
+      
+    <!-- Javascript libraries from local source -->
+    <script src="../javascript/remark-latest.min.js" type="text/javascript"></script>
+    <!-- See discussion at https://github.com/gnab/remark/issues/222-->
+    <script src="../javascript/MathJax/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured,local/local" type="text/javascript"></script>
+    <!-- See comment at http://stackoverflow.com/questions/19208536/mathjax-not-working-if-loaded-from-local-js-file-or-if-the-source-code-is-includ-->
+      
+    <script type="text/javascript"> 
+      var slideshow = remark.create({navigation: {click: false}, properties: {class: "center, middle"}});
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
+    </script>
+  </body>
+</html>
