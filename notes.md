@@ -1,10 +1,8 @@
 ---
 layout: page
-title: notes
+title: NOTES
 permalink: /notes/
 ---
-
-### HERE ARE MY NOTES
 
 <ul class="listing">
 {% for post in site.posts %}
