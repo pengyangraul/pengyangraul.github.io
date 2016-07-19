@@ -102,6 +102,7 @@ we have  $e^{i\gamma} = \pm 1$. Hence, $T^2 = \pm 1$.
 
 ### Conclusion
 3 ways Hamiltonian can respond to time-reversal. 
+
 - H is not TR invariant
 - $T^2 = 1$
 - $T^2 = -1$ $J^2 \psi_A J^{-2} = - \psi_{A}$,  $J^2 \psi_A^\dagger J^{-2} = - \psi_{A}^\dagger$, $J^{2} = (-)^{Q}$, 
