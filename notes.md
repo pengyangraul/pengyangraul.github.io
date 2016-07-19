@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: NOTES
 permalink: /notes/
 ---
@@ -17,3 +17,4 @@ permalink: /notes/
 </li>
 {% endfor %}
 </ul>
+

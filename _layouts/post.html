@@ -15,9 +15,18 @@ layout: default
 {% endif %}
 </p>
   </header>
-
   <article class="post-content">
-    {{ content }}
+               <!-- LaTex Preamble -->
+               <p>$
+               \renewcommand{\v}[1]{\mathbf{#1}}
+               \newcommand{\uv}[1]{\mathbf{\hat{#1}}}
+               \newcommand{\abs}[1]{\left| #1 \right|}
+               \newcommand{\avg}[1]{\left\langle #1 \right\rangle}
+               \newcommand{\bra}[1]{\left\langle #1 \right|}
+               \newcommand{\ket}[1]{\left| #1 \right\rangle}
+               \newcommand{\Tr}[0]{\mathrm{Tr\,}}
+               $</p>
+	     {{ content }}
   </article>
 
 </div>
