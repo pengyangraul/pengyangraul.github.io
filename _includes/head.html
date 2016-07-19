@@ -52,7 +52,17 @@
     // <![CDATA[
     MathJax.Hub.Config({ 
         TeX: { extensions: ["AMSmath.js", "AMSsymbols.js"],
-        equationNumbers: { autoNumber: "AMS" }
+        equationNumbers: { autoNumber: "AMS" },
+        Macros: {
+                 abs: ['\\left\\lvert #2 \\right\\rvert_{\\text{#1}}', 2, ""],
+                 bra: ['{\\left\\langle #1\\right|}',1],
+                 ket: ['{\\left| #1\\right\\rangle}',1], 
+                 avg: ['{\\left\\langle #1\\right\\rangle}',1], 
+                 Tr: "\\mathrm{Tr}",
+                 real: "\\mathop{\\rm Re}\\nolimits",
+                 imag: "\\mathop{\\rm Im}\\nolimits",
+                 Res: "\\mathop{\\rm Tr}\\limits"
+            }
         },
         extensions: ["tex2jax.js"],
         jax: ["input/TeX", "output/HTML-CSS"],
@@ -61,8 +71,8 @@
         showMathMenu: false ,
         tex2jax: {
             processEnvironments: true,
-            inlineMath: [ ['$','$'] ],
-            displayMath: [ ['$$','$$'], ["\[","\]"] ],
+            inlineMath:  [['$','$'], ["\\(","\\)"] ],
+            displayMath: [['$$','$$'], ['\[','\]']],
             preview : "none",
             processEscapes: true,
             processRefs: true

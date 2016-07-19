@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Classification of topological insulators I"
+title: "Classification of topological insulators I --A. Ludwig"
 date: 2016-07-18
 category: Boulder School 2016
 ---
 
-# References[^1]
-
-[^1]:arxiv 1512.08882, Phys. scr
+References :arxiv 1512.08882, Phys. scr
 
 # Classification of topological insulators and superconductors
 
@@ -39,31 +37,29 @@ The above equation can also be written as a matrix, with Hamiltonian matrix $H$.
 
 ## Unitarily realized symmetries
 
-- $\exists$ group $G_{0}$, $N\timesN$ unitary representation $u$  ($u_g, g \in G_0$), s.t. $u^\dagger H u = H$.  
-- For 2nd quantized operators,  $u \psi_{A} u^\dagger  = \sum_{B} (u^{\dagger}_{AB} \psi_{B})$, 
-$u \psi_{A}^{\dagger} u^\dagger  = \sum_{B}  \psi_{B}^{\dagger} u_{BA}$.
+- $\exists$ group $G_{0}$, $N\times N$ unitary representation $u$  \($u_g, g \in G_0$\), s.t. $u^\dagger H u = H$.  
+- For 2nd quantized operators, $u\psi_{A}u^\dagger=\sum_{B} \left(u^\dagger\right)\_{AB}\psi_{B}$, 
+  $u \psi_{A}^{\dagger} u^\dagger = \sum_{B} \psi_{B}^{\dagger} u_{BA}$.
 - N-dim single-particle hilbert spaces $\nu$ (spanned by $\ket{A} = \psi_{A}^{\dagger} \ket{0}$)
 decomposes into 
 \begin{equation}
-  \nu = \osum_{\lambda}^{\lambda = \mathrm{certerin\  irreps}} \nu_{\lambda}.
+  \nu = \bigoplus_{\lambda}^{\lambda = \mathrm{certerin\  irreps}} \nu_{\lambda}.
 \end{equation}
-In each $\nu_{\lambda}j$ can choose basis fo the form
-\[ 
-  \ket{v^{\lambda}}_{\alpha} \otimes \ket{w^{\lambda}}_{k},
-\]
-$k=1,\dots,d_{\lambda}=$ dim of $\lambda$. $G_{0}$ only act on $\ket{W}$, and  $H$ only act on $\ket{v}$. 
+In each $\nu_{\lambda}$ can choose basis fo the form
+\[\ket{v^{\lambda}}\_{\alpha} \otimes \ket{w^{\lambda}}\_{k},\]
+$k=1,\dots,d_{\lambda}=$ dim of $\lambda$. $G_{0}$ only act on $\ket{w}$, and  $H$ only act on $\ket{v}$. 
 
 ### Question:
 Fix $G_{0}$, consider all $H$ commuting with all symmetry operations in $G_{0}$ unitarily realized. 
 - As we run through these $H$s, what sets do the blockes $H^{\lambda}$ run through ? 
 
 ### Answer: 
-Resulting set of block Hamiltonians $H$^{\lambda} is independent of $G_{0}$ and the representation. 
+Resulting set of block Hamiltonians $H^{\lambda}$ is independent of $G_{0}$ and the representation. 
 
 ### Fact (remarkable)
 Only 10 possible such seets of matrices $H^{\lambda}$. 
 Complete set of corresponding time-evolutionary operators:
-\[ u^{\lambda}(t) = \exp{it H^{\lambda}}  \]
+\[ u^{\lambda}(t) = \exp (it H^{\lambda})  \]
 
 ### Why useful?
 Problem of listing all possible Hamiltonians $\to$ finite problem. 
@@ -75,8 +71,8 @@ Only a few anti-unitary symmetyr modulo unitary operators.
 
 ### Time reversal
 In 2nd quant. $J$, 
-\[ J\psi_{A}J^{-1} = \sum_{B} (u_{T})^{\dagger}_{AB} \psi_{B}, \]
-\[ J\psi_{B}^{\dagger}J^{-1} = \sum_{B}  \psi_{B}^{\dagger} (u_{T})_{BA}, \]
+\[ J\psi_{A}J^{-1} = \sum_{B} (u_{T})^{\dagger}\_{AB} \psi_{B}, \]
+\[ J\psi_{B}^{\dagger}J^{-1} = \sum_{B}  \psi_{B}^{\dagger} (u_{T})\_{BA}, \]
 where $J$ is anti-unitary operator, and $u_{T}$ is a unitary matrix. 
 2nd quant. $H$ is invariant iff
 \begin{equation}
@@ -84,11 +80,11 @@ where $J$ is anti-unitary operator, and $u_{T}$ is a unitary matrix.
 \end{equation}
 check equavalent to 1st quantized Hamiltonian $H$
 \begin{equation}
-  u_{T} H^{*} u_{T}^{\dagger} = H .
-  \label{eq:1}
+  u_{T} H^{\*} u_{T}^{\dagger} = H .
+\label{eq:1}
 \end{equation}
 
-Convenient $T := J\|_{1st\ quant.}$. Eq.(ref{eq:1}) can be written as
+Convenient $T := J\|_{1st\ quant.}$. Eq.(\ref{eq:1}) can be written as
 \begin{equation}
   T H T^{-1} = H, \quad T = u_T K, \quad K^2 =1, \quad KHK^{-1} = H^{*} . 
 \end{equation}
@@ -96,12 +92,12 @@ Convenient $T := J\|_{1st\ quant.}$. Eq.(ref{eq:1}) can be written as
 ### Square of $J$ :
 $J^2 = $ some unitary operator $U$ (fermion parity), corresponding to unitary matrix $u$. It can be shown that
 \begin{equation}
-  u = u_{T} u_{T}^{*}.
+  u = u_{T} u_{T}^{\*}.
 \end{equation}
 Follows from $J^2 H J^{-2} = J (J H J^{-1} J^{-1}) = H$, we have
-$(u_T u_{T}^{*})H = H (u_{T}u_{T}^{*})$, then $u_{T}u_{T}^{*} = e^{i\gamma}\mathbb{I}$ by Schurs Lemma.  
+$(u_T u_{T}^{\*})H = H (u_{T}u_{T}^{*})$, then $u_{T}u_{T}^{\*} = e^{i\gamma}\mathbb{I}$ by Schurs Lemma.  
 
-Note that $u_{T} u_T^* u_T = (u_T u_T^*)u_T = u_T(u_T^* u_T) = e^{i\gamma}u_T = u_T e^{-i\gamma}$, 
+Note that $u_{T} u_T^\* u_T = (u_T u_T^\*)u_T = u_T(u_T^\* u_T) = e^{i\gamma}u_T = u_T e^{-i\gamma}$, 
 we have  $e^{i\gamma} = \pm 1$. Hence, $T^2 = \pm 1$. 
 
 ### Conclusion

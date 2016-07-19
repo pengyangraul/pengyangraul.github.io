@@ -15,8 +15,10 @@ category: Boulder School 2016
 Assume ergodicity, equilibration, loss of info about the initial condition.
 
 ### Isolated quantum many body system
-\[ i\partial_t \rho = [H,\rho] \]
-- Information accessible in local measurement on subregion A contained in $\rho_{A} = \Tr_{B} \rho $.
+
+$$ i\partial_t \rho = [H, \rho ] $$
+
+- Information accessible in local measurement on subregion A contained in $\rho_{A} = \Tr\_{B} \rho $.
 Does $\lim_{t\to \infty} \rho_A(t)$ look like a thermal density matrix ? 
 If yes, equivalent to ergodicity. 
 
@@ -42,9 +44,9 @@ where $\lambda_{i}$ are random variables.
 
 - Def Full MBL: All eigenstates violate ETH. 
 
-## Localization protected order[^1]
-[^1] Huse, RN, et. al Sondhi; 2013
-New form of order with no analog in equilibrium.
+## Localization protected order
+- Huse, RN, et. al Sondhi; 2013
+- New form of order with no analog in equilibrium.
 \begin{equation}
   H = J S_{i}^{z} + S_{i+1}^z +\lambda S_i^x + \epsilon S_{i}^x S_{i+1}^x
 \end{equation}

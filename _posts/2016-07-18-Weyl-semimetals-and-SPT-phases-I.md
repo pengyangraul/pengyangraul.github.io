@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weyl semimetals & SPT phases I -- Vishwanath"
+title: "Weyl semimetals & SPT phases I -- A. Vishwanath"
 date: 2016-07-18
 category: Boulder School 2016
 ---
@@ -20,6 +20,7 @@ category: Boulder School 2016
 # Background
 
 ## Accidental Degeneracies
+
 ## Dirac & Weyl Equations
 Dirac:
 \begin{equation}
@@ -29,14 +30,14 @@ Weyl: $m=0$. Massless fermion, odd spatial dimension.
 $\beta = \mathbb{I} \otimes \tau^{x}$, $\vec{\alpha} = \vec{\sigma} \otimes \tau^z$.
 $\mathbb{I} \otimes \tau^z = i\alpha_1 \alpha_2 \alpha_3$.
 \(That's why we need odd spatial dimension!\)
-$\tau^z \psi _{\pm} = \pm \psi_{\pm}$ since $[\tau^z,H]=0$. 
+$\tau^z \psi_{\pm} = \pm \psi_{\pm}$ since $[\tau^z,H]=0$. 
 We have
 \begin{equation}
   H_{\pm} = \pm \vec{\sigma} \cdot (-i \vec{\nabla}),
 \end{equation}
 which is $\pm$ chirality of Weyl fermions. 
 
-## Topological Band Invariants, ``C''
+## Topological Band Invariants, \"C\"
 - Berry connection: \[A_{\alpha}(k) = -i \bra{u(k)} \frac{\partial}{\partial k_{\alpha}}\ket{u(k)}.\] 
 - Berry curvature:
 \[ F_{\alpha\beta} = \frac{\partial}{\partial k_{\alpha}}A_{\beta} - \frac{\partial}{\partial k_{\beta}}A_{\alpha}. \]
