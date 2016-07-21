@@ -17,7 +17,7 @@ Given some tranformational law $x'^{\mu} = f^{\mu}(x)$,
   = 
   \frac{dx'^{\mu} dy'^\mu}{\sqrt{dx'^\alpha dx'^\alpha} \sqrt{dy'^\alpha dy'^\alpha}}.
 \]
-In terms of metric, $g_{\mu \nu}=\delta_{\mu\nu}$, then $g'_{\mu \nu} = e^{\varphi(x')\delta_{\mu \nu}}$.
+In terms of metric, $g_{\mu \nu}=\delta_{\mu\nu}$, then $g'\_{\mu \nu} = e^{\varphi(x')\delta_{\mu \nu}}$.
 
 Type of transformations in $d$ dim:
 - $x'^\mu = x^\mu + a^\mu$ \(translations, $d$ parameters\) 
@@ -26,8 +26,16 @@ Type of transformations in $d$ dim:
 - special conformal transformations, $d$ parameters
 
 In 2 dim, it is better to use complex coordinate: $x+it = z$, $x-it = \bar{z}$. 
-$x^2 + t^2 = z\bar{z}$. the metric tensor $g = (0 1/2; 1/2,0)$ and
-$g^{-1} = (0,2;2,0)$. Then $z \bar{z}=g_{\mu\nu}z^\mu z^\nu$, with $z^{\mu} = (z,\bar{z})$. 
+$x^2 + t^2 = z\bar{z}$. the metric tensor  $$ g = \left(
+\begin{matrix}
+  0 & 1/2 \\
+  1/2 & 0
+\end{matrix}\right) $$ and 
+$$ g^{-1} = \left( \begin{matrix}
+  0 & 2 \\
+  2 & 0
+\end{matrix}\right).$$
+Then $z \bar{z}=g_{\mu\nu}z^\mu z^\nu$, with $z^{\mu} = (z,\bar{z})$. 
 Introduce transformations $z = f(z')$ and $\bar{z}  = f^{\*}(\bar{z}')$,
 \[ g'\_{z\bar{z}} = g_{z \bar{z}} \frac{\partial f}{\partial z'} \frac{\partial f^\*}{\partial \bar{z}'}. \]
 
@@ -82,7 +90,7 @@ where
 and $F(x)$ is called the Conformal block.
 
 For general four point correlation functions, we have
-\[\frac{1}{z_{13}^{2h_A} z_{24}^{2h_b} \bar{z}_{13}^{2\bar{h}_A} \bar{z}_{24}^{2\bar{h}_B}} \sum_{ij} C_{ij}
+\[\frac{1}{z_{13}^{2h_A} z_{24}^{2h_b} \bar{z}\_{13}^{2\bar{h}\_{A}} \bar{z}\_{24}^{2\bar{h}\_B}}   \sum_{ij} C_{ij}
 F_{i}(x) F^\*_j(\bar{x}). \]
 
 ## Energy - stress tensor $T_{\mu \nu}$
