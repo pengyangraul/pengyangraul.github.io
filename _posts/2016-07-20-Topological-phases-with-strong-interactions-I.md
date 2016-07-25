@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Topological phases (SRE) with strong interactions -- A. Vishwanath"
+title: "Topological phases (SRE) with strong interactions I -- A. Vishwanath"
 date: 2016-07-20
 category: Boulder School 2016
 ---
