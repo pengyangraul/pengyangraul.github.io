@@ -13,7 +13,7 @@ ity anomaly and spin transmutation in quantum spin Hall Josephson junctions*, [a
   *Orbital Picture of Yu-Shiba-Rusinov Multiplets*, [arXiv: 1608.03457, 2016](http://arxiv.org/abs/1608.03457)
 1. **Yang Peng**, Falko Pientka, Erez Berg, Yuval Oreg, Felix von Oppen,
   *Signatures of topological Josephson junctions*, 
-  [Phys. Rev. B, **94**, 085409, 2016](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.085409) (Editors' Suggestion)
+  [Phys. Rev. B, **94**, 085409, 2016](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.085409) (Editors\' Suggestion)
 1. **Yang Peng**, Falko Pientka, Yuval Vinkler-Aviv, Leonid I. Glazman, Felix von Oppen,
   *Robust Majorana conductance peaks for a superconducting lead*,
  [Phys. Rev. Lett. **115**, 266804, 2015](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.266804)
@@ -37,7 +37,7 @@ ity anomaly and spin transmutation in quantum spin Hall Josephson junctions*, [a
   *Strong localization of Majorana end states in chains of magnetic adatoms*,
   [Phys. Rev. Lett. **114**, 106801, 2015](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)
 1. Felix von Oppen, **Yang Peng**, Falko Pientka, *Topological superconducting phases in one dimension* 
-in [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, 2015] (http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
+in [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, 2015](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
 1. **Yang Peng**, Luca M Ghiringhelli, Heiko Appel,
   *A quantum reactive scattering perspective on electronic nonadiabaticity*,
   [Eur. Phys. J. B **87**, 1--13, 2014](http://link.springer.com/article/10.1140/epjb/e2014-50183-4)
@@ -46,7 +46,7 @@ in [Lecture Notes of the Les Houches Summer School: Topological aspects of conde
   polymer symmetry and backbone curvature*,
   [Chem. Mater. **24**, 1762--1770, 2012](http://pubs.acs.org/doi/abs/10.1021/cm300117x)
 1.  Ting Lei, Yan Zhou, Chu-Yang Cheng, Yue Cao, **Yang Peng**, Jiang Bian, Jian Pei,
-  *Aceno [2, 1, 3] thiadiazoles for field-effect transistors: synthesis and crystal packing*,
+  *Aceno \[2, 1, 3\] thiadiazoles for field-effect transistors: synthesis and crystal packing*,
   [Org. Lett. **13**, 2642--2645, 2011](http://pubs.acs.org/doi/abs/10.1021/ol200748c)
 1.  Xueyan Wang, **Yang Peng**, 
   *Comparative study of the structure and properties of wool treated by a chicken‐feather keratin agent, plasma,
