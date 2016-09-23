@@ -7,7 +7,7 @@ permalink: /publications/
 1. **Yang Peng**, Yuval Vinkler-Aviv, Piet W. Brouwer, Leonid I. Glazman, Felix von Oppen, *Par
 ity anomaly and spin transmutation in quantum spin Hall Josephson junctions*, [arXiv:1609.01896,
 2016](http://arxiv.org/abs/1609.01896)
-1.  Benedikt Friess, *Yang Peng*, Bernd Rosenow, Felix von Oppen, Vladimir Umansky, Klaus von Klitzing, Jurgen H. Smet,
+1.  Benedikt Friess, __Yang Peng__, Bernd Rosenow, Felix von Oppen, Vladimir Umansky, Klaus von Klitzing, Jurgen H. Smet,
  *Negative permittivity attests to local attractive interactions in bubble and stripe phases*, [arXiv:1608.05210, 2016](http://arxiv.org/abs/1608.05210)
 1.   Michael Ruby, **Yang Peng**, Felix von Oppen, Benjamin W. Heinrich, Katharina J. Franke,
   *Orbital Picture of Yu-Shiba-Rusinov Multiplets*, [arXiv: 1608.03457, 2016](http://arxiv.org/abs/1608.03457)
