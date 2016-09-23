@@ -46,7 +46,7 @@ in [Lecture Notes of the Les Houches Summer School: Topological aspects of conde
   polymer symmetry and backbone curvature*,
   [Chem. Mater. **24**, 1762--1770, 2012](http://pubs.acs.org/doi/abs/10.1021/cm300117x)
 1.  Ting Lei, Yan Zhou, Chu-Yang Cheng, Yue Cao, **Yang Peng**, Jiang Bian, Jian Pei,
-  *Aceno `[2, 1, 3]` thiadiazoles for field-effect transistors: synthesis and crystal packing*,
+  *Aceno `[[2, 1, 3]]` thiadiazoles for field-effect transistors: synthesis and crystal packing*,
   [Org. Lett. **13**, 2642--2645, 2011](http://pubs.acs.org/doi/abs/10.1021/ol200748c)
 1.  Xueyan Wang, **Yang Peng**, 
   *Comparative study of the structure and properties of wool treated by a chicken‐feather keratin agent, plasma,
