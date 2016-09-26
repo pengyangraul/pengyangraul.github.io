@@ -41,6 +41,8 @@ in [Lecture Notes of the Les Houches Summer School: Topological aspects of conde
 1. **Yang Peng**, Luca M Ghiringhelli, Heiko Appel,
   *A quantum reactive scattering perspective on electronic nonadiabaticity*,
   [Eur. Phys. J. B **87**, 1--13, 2014](http://link.springer.com/article/10.1140/epjb/e2014-50183-4)
+1. Ilya G. Kaplan, *Intermolecular Interactions: Physical Picture, Computational Methods and Model Potentials*, Wiley, 2006;
+  Chinese version translated by Jiang Bian, **Yang Peng**, Yuezhi Mao, Chemical Industry Press (Beijing), 2013
 1.  Ting Lei, Yue Cao, Xu Zhou, **Yang Peng**, Jiang Bian, Jian Pei,
   *Systematic investigation of isoindigo-based polymeric field-effect transistors: design strategy and impact of
   polymer symmetry and backbone curvature*,
