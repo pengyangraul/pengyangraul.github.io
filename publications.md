@@ -4,6 +4,8 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 
+1. Felix von Oppen, **Yang Peng**, Falko Pientka, *Topological superconducting phases in one dimension* 
+in C. Chamon et al. (Ed.) [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, Oxford University Press, 2017](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
 1. **Yang Peng**, Yuval Vinkler-Aviv, Piet W. Brouwer, Leonid I. Glazman, Felix von Oppen, *Parity anomaly
 and spin transmutation in quantum spin Hall Josephson junctions*, [arXiv:1609.01896,
 2016](http://arxiv.org/abs/1609.01896)
@@ -36,8 +38,6 @@ and spin transmutation in quantum spin Hall Josephson junctions*, [arXiv:1609.01
 1. **Yang Peng**, Falko Pientka, Leonid I. Glazman, Felix von Oppen,
   *Strong localization of Majorana end states in chains of magnetic adatoms*,
   [Phys. Rev. Lett. **114**, 106801, 2015](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)
-1. Felix von Oppen, **Yang Peng**, Falko Pientka, *Topological superconducting phases in one dimension* 
-in [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, 2015](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
 1. **Yang Peng**, Luca M Ghiringhelli, Heiko Appel,
   *A quantum reactive scattering perspective on electronic nonadiabaticity*,
   [Eur. Phys. J. B **87**, 1--13, 2014](http://link.springer.com/article/10.1140/epjb/e2014-50183-4)
