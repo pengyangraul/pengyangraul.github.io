@@ -4,8 +4,9 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 
-1. Felix von Oppen, **Yang Peng**, Falko Pientka, *Topological superconducting phases in one dimension* 
-in C. Chamon et al. (Ed.) [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, Oxford University Press, 2017](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
+1. Felix von Oppen, **Yang Peng**, Falko Pientka, [*Topological superconducting phases in one dimension*](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
+in C. Chamon et al. (Ed.) [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, Oxford University Press,
+2016](https://global.oup.com/academic/product/topological-aspects-of-condensed-matter-physics-9780198785781?cc=de&lang=en&#)
 1. **Yang Peng**, Yuval Vinkler-Aviv, Piet W. Brouwer, Leonid I. Glazman, Felix von Oppen, *Parity anomaly
 and spin transmutation in quantum spin Hall Josephson junctions*, [arXiv:1609.01896,
 2016](http://arxiv.org/abs/1609.01896)
