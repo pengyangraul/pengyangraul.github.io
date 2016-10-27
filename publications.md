@@ -12,8 +12,7 @@ and spin transmutation in quantum spin Hall Josephson junctions*, [arXiv:1609.01
 1.  Benedikt Friess, **Yang Peng**, Bernd Rosenow, Felix von Oppen, Vladimir Umansky, Klaus von Klitzing, Jurgen H. Smet,
  *Negative permittivity attests to local attractive interactions in bubble and stripe phases*, [arXiv:1608.05210, 2016](http://arxiv.org/abs/1608.05210)
 1.   Michael Ruby, **Yang Peng**, Felix von Oppen, Benjamin W. Heinrich, Katharina J. Franke,
-  *Orbital Picture of Yu-Shiba-Rusinov Multiplets*, [arXiv: 1608.03457, 2016](http://arxiv.org/abs/1608.03457), Accepted
-  by PRL.
+  *Orbital Picture of Yu-Shiba-Rusinov Multiplets*, [Phys. Rev. Lett. **117**, 186801, 2016](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.186801)
 1. **Yang Peng**, Falko Pientka, Erez Berg, Yuval Oreg, Felix von Oppen,
   *Signatures of topological Josephson junctions*, 
   [Phys. Rev. B, **94**, 085409, 2016](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.085409) (Editors\' Suggestion)
