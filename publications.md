@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 1. **Yang Peng**, Yimu Bao, Felix von Oppen, *Boundary Green functions of topological insulators and superconductors*,
 [arXiv:1704.05862](https://arxiv.org/abs/1704.05862)
-1. Michael Ruby, Benjamin W Heinrich, **Yang Peng**, Felix von Oppen, Katharina J Franke, *Exploring a proximity-coupled Co chain on Pb (110) as a possible Majorana platform*, [arXiv:1704.05756](https://arxiv.org/abs/1704.05756)
+1. Michael Ruby, Benjamin W. Heinrich, **Yang Peng**, Felix von Oppen, Katharina J. Franke, *Exploring a proximity-coupled Co chain on Pb (110) as a possible Majorana platform*, [arXiv:1704.05756](https://arxiv.org/abs/1704.05756)
 1. **Yang Peng**, Yuval Vinkler-Aviv, Piet W. Brouwer, Leonid I. Glazman, Felix von Oppen, *Parity anomaly
 and spin transmutation in quantum spin Hall Josephson junctions*, [Phys. Rev. Lett. 117, 267001,
 2016](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.267001)
