@@ -7,12 +7,12 @@ permalink: /publications/
 [Phys. Rev. B, 95, 235143, 2017](Boundary Green functions of topological insulators and superconductors)
 1. Michael Ruby, Benjamin W. Heinrich, **Yang Peng**, Felix von Oppen, Katharina J. Franke, *Exploring a proximity-coupled Co chain on Pb (110) as a possible Majorana platform*, 
 [Nano Lett., 17(7), pp 4473–4477, 2017](http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b01728)
+1. Felix von Oppen, **Yang Peng**, Falko Pientka, [*Topological superconducting phases in one dimension*](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
+in C. Chamon et al. (Ed.) [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, Oxford University Press,
+2017](https://global.oup.com/academic/product/topological-aspects-of-condensed-matter-physics-9780198785781?cc=de&lang=en&#)
 1. **Yang Peng**, Yuval Vinkler-Aviv, Piet W. Brouwer, Leonid I. Glazman, Felix von Oppen, *Parity anomaly
 and spin transmutation in quantum spin Hall Josephson junctions*, [Phys. Rev. Lett. 117, 267001,
 2016](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.267001)
-1. Felix von Oppen, **Yang Peng**, Falko Pientka, [*Topological superconducting phases in one dimension*](http://topo-houches.pks.mpg.de/wp-content/uploads/2015/09/lecture_Oppen.pdf)
-in C. Chamon et al. (Ed.) [Lecture Notes of the Les Houches Summer School: Topological aspects of condensed matter physics, Oxford University Press,
-2016](https://global.oup.com/academic/product/topological-aspects-of-condensed-matter-physics-9780198785781?cc=de&lang=en&#)
 1.  Benedikt Friess, **Yang Peng**, Bernd Rosenow, Felix von Oppen, Vladimir Umansky, Klaus von Klitzing, Jurgen H. Smet,
  *Negative permittivity attests to local attractive interactions in bubble and stripe phases*, [arXiv:1608.05210, 2016](http://arxiv.org/abs/1608.05210)
 1.   Michael Ruby, **Yang Peng**, Felix von Oppen, Benjamin W. Heinrich, Katharina J. Franke,
