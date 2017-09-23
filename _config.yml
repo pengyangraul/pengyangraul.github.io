@@ -1,8 +1,8 @@
 # Site settings
 title: "Yang Peng's Home Page"
-email: yang.peng@fu-berlin.de
+email: yangpeng@caltech.edu 
 description: > # this means to ignore newlines until "baseurl:"
-    Yang Peng is a 4th-year PhD student in theoretical condensed matter Physics in Freie Universität Berlin.
+    Yang Peng is a postdoctoral scholar in theoretical condensed matter Physics in Caltech.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pengyangraul.github.io" # the base hostname & protocol for your site
 
@@ -11,6 +11,6 @@ markdown: kramdown
 
 # Other options
 #permalink: notes/:year/:month/:title
-job.title: "PhD Student"
+job.title: "Postdoc"
 excerpt_separator: "<!--more-->"
 
