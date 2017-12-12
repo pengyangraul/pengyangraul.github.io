@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 1. Josias Langbehn, **Yang Peng**, Luka Trifunovic, Felix von Oppen, Piet W. Brouwer,
 *Reflection symmetric second-order topological insulators and superconductors*, 
-[arXiv:1708.03640, 2017](https://arxiv.org/abs/1708.03640)
+[Phys. Rev. Lett. 119, 246401, 2017](Reflection-Symmetric Second-Order Topological Insulators and Superconductors) (Editors\'s Suggestion and selected for a Viewpoint in Physics.)
 1. Benedikt Friess, **Yang Peng**, Bernd Rosenow, Felix von Oppen, Vladimir Umansky, Klaus von Klitzing, Jurgen H. Smet,
 *Negative permittivity in bubble and stripe phases*, [Nature Physics 13, 1124–1129, 2017](https://www.nature.com/articles/nphys4213)
 1. **Yang Peng**, Yimu Bao, Felix von Oppen, *Boundary Green functions of topological insulators and superconductors*,
