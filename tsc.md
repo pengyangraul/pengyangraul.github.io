@@ -5,17 +5,16 @@ permalink: /tsc/
 ---
 
 ## Introduction
-
 Topological superconductors host gapless excitations at the edge, protected by the nontrival topology of their bulk band structures. Specifically in one dimension, the excitations located at the ends of the wire with zero energy are quite remarkable as they turn out to be *Majorana bound states* or in short *Majoranas*.  These Majoranas are neither fermions nor bosons but obey nonabelian quantum statistics when braided around one another.  This nonabelian statistics is not only interesting physically, but may also be useful for quantum computation. Due to their zero-energy nature, Majoranas give rise to degenerate ground states, which can be used as qubits to store quantum information. For a system of Majorana qubits, gate operations can be effected nonlocally via braiding.  Hence, decoherence by local perturbations is highly suppressed.  This leads to the amazing concept of topological quantum computation. Given their highly interesting physical properties and potential applications to quantum computation, engineering topological superconductors hosting Majoranas in the laboratory is an important first step in this field.  There have been quite a few theoretical proposals, and two platforms &mdash based on semiconductor nanowires and adatom chains &mdash have been successfully realized in the laboratory. In view of this remarkable progress, there is considerable hope that the field can embark on braiding experiments and move towards quantum computation platforms in the near future
 
 
-##Strong Localization of Majoranas \[[Phys. Rev. Lett. 114, 106801](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)\]
-![alt text](http://pengyangraul.github.io/images/localization.gif | width=100)
+## Strong Localization of Majoranas \[[Phys. Rev. Lett. 114, 106801](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)\]
+![alt text](http://pengyangraul.github.io/images/localization.gif =100)
 Recently, Yazdani's lab in Princeton realized an intriguing Majorana platform by placing a ferromagnetically aligned Fe adatom chain on top of a superconducting Pb substrate.  The STM measurements, providing both energetic and spatial resolution, showed zero-energy bound states at the ends of the chain which were identified as Majoranas.  It was initially a major puzzle why the localization length of these bound states was shorter than the coherence length of Pb by two orders of magnitude, although the latter was expected to be a rough estimate of the Majorana localization length.   To unravel this puzzle, I looked at the superconducting proximity effect more closely, and showed that one can indeed have strongly localized Majoranas in proximity coupled systems.  My key insight was that for strong coupling between normal and superconducting system, the coherence length of proximity-induced  superconductivity can differ dramatically from the coherence length of the proximity-providing superconductor, which is the result of a strong velocity renormalization.  The strong localization of the Majoranas may be useful in  future quantum computation as braiding requires the distance between Majoranas to be larger than their localization lengths. 
 
 
 ## Robust Majorana Conductance Peaks for a Superconducting Lead \[[Phys. Rev. Lett. 115, 266804](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.266804)\]
-![alt text](http://pengyangraul.github.io/images/sctip.gif| width=100)
+![alt text](http://pengyangraul.github.io/images/sctip.gif =100)
 It is a prominent prediction that tunneling into a Majorana from a metallic lead produces
 a quantized zero-bias conductance peak at zero temperature. 
 However, Majorana experiments consistently show non-quantized peaks. 
@@ -29,7 +28,7 @@ K. Franke and A. Yazdani.
 
 
 ## Signatures of topological Josephson junctions \[[Phys. Rev. B 94, 085409](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.085409)\]
-![alt text](http://pengyangraul.github.io/images/tjj.gif| width=100)
+![alt text](http://pengyangraul.github.io/images/tjj.gif =100)
 A fractional 4π Josephson effect is predicted to be one of the strongest indications of topological superconductivity.
 However, this effect is presumably difficult to observe due to quasiparticle poisoning processes and diabatic
 transitions. Rather than measuring the current-phase relation directly, I proposed to perform a much simpler switching probability
@@ -39,7 +38,7 @@ junctions (e.g., by the Quantronics group in Paris), measurements on topological
 
 
 ## Spin Transmutation in Quantum Spin Hall Josephson Junctions \[[Phys. Rev. Lett. 117, 267001](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.267001)\]
-![alt text](http://pengyangraul.github.io/images/transmutation.gif| width=100)
+![alt text](http://pengyangraul.github.io/images/transmutation.gif =100)
 Superconductor/quantum spin Hall/superconductor junctions in the presence of a Zeeman field 
 are a prototypical setup for creating topological Josephson junctions. 
 When the Zeeman field is absent and electron-electron interactions are neglected, the junction is expected to exhibit a 2π-periodic dissipative Josephson effect.
