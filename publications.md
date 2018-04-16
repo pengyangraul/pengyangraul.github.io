@@ -7,7 +7,7 @@ permalink: /publications/
     [Phys. Rev. B 97, 134303, 2018](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.134303)
 1. Michael Ruby, Benjamin W. Heinrich, **Yang Peng**, Felix von Oppen, and Katharina J. Franke,
     *Wave-Function Hybridization in Yu-Shiba-Rusinov Dimers*,
-    \MYhref{https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.156803}[Phys. Rev. Lett. 120, 156803, 2018]
+    [Phys. Rev. Lett. 120, 156803, 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.156803)
 1. Josias Langbehn, **Yang Peng**, Luka Trifunovic, Felix von Oppen, Piet W. Brouwer,
 *Reflection symmetric second-order topological insulators and superconductors*, 
 [Phys. Rev. Lett. 119, 246401, 2017](Reflection-Symmetric Second-Order Topological Insulators and Superconductors) (Editors\'s Suggestion and selected for a Viewpoint in Physics.)
