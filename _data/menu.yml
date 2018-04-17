@@ -16,9 +16,9 @@
 - title: "Research"
   href: "/research/"
   subcategories:
-  - subtitle: "Topological Superconductor"
-    subhref: "/research/tsc/"
-  - subtitle: "Higher-order topological insulator"
-    subhref: "/research/hti/"
   - subtitle: "Time-quasiperiodic topological effects"
     subhref: "/research/tqp/"
+  - subtitle: "Higher-order topological insulator"
+    subhref: "/research/hti/"
+  - subtitle: "Topological Superconductor"
+    subhref: "/research/tsc/"
