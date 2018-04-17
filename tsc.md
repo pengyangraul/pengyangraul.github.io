@@ -9,7 +9,7 @@ Topological superconductors host gapless excitations at the edge, protected by t
 
 ## Strong Localization of Majoranas \[[Phys. Rev. Lett. 114, 106801](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)\]
 <dl>
-<img src="./images/localization" width="50">
+<img src="images/localization.gif" style="width:200px">
 </dl>
 Recently, Yazdani's lab in Princeton realized an intriguing Majorana platform by placing a ferromagnetically aligned Fe adatom chain on top of a superconducting Pb substrate.  The STM measurements, providing both energetic and spatial resolution, showed zero-energy bound states at the ends of the chain which were identified as Majoranas.  It was initially a major puzzle why the localization length of these bound states was shorter than the coherence length of Pb by two orders of magnitude, although the latter was expected to be a rough estimate of the Majorana localization length.   To unravel this puzzle, I looked at the superconducting proximity effect more closely, and showed that one can indeed have strongly localized Majoranas in proximity coupled systems.  My key insight was that for strong coupling between normal and superconducting system, the coherence length of proximity-induced  superconductivity can differ dramatically from the coherence length of the proximity-providing superconductor, which is the result of a strong velocity renormalization.  The strong localization of the Majoranas may be useful in  future quantum computation as braiding requires the distance between Majoranas to be larger than their localization lengths. 
 
