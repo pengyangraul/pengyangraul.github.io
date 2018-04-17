@@ -9,14 +9,14 @@ Topological superconductors host gapless excitations at the edge, protected by t
 
 ## Strong Localization of Majoranas \[[Phys. Rev. Lett. 114, 106801](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.106801)\]
 <dl>
-<img src="http://pengyangraul.github.io/images/localization.gif" style="width:200px">
+<img src="http://pengyangraul.github.io/images/localization.gif" style="width:300px">
 </dl>
 Recently, Yazdani's lab in Princeton realized an intriguing Majorana platform by placing a ferromagnetically aligned Fe adatom chain on top of a superconducting Pb substrate.  The STM measurements, providing both energetic and spatial resolution, showed zero-energy bound states at the ends of the chain which were identified as Majoranas.  It was initially a major puzzle why the localization length of these bound states was shorter than the coherence length of Pb by two orders of magnitude, although the latter was expected to be a rough estimate of the Majorana localization length.   To unravel this puzzle, I looked at the superconducting proximity effect more closely, and showed that one can indeed have strongly localized Majoranas in proximity coupled systems.  My key insight was that for strong coupling between normal and superconducting system, the coherence length of proximity-induced  superconductivity can differ dramatically from the coherence length of the proximity-providing superconductor, which is the result of a strong velocity renormalization.  The strong localization of the Majoranas may be useful in  future quantum computation as braiding requires the distance between Majoranas to be larger than their localization lengths. 
 
 
 ## Robust Majorana Conductance Peaks for a Superconducting Lead \[[Phys. Rev. Lett. 115, 266804](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.266804)\]
 <dl>
-<img src="http://pengyangraul.github.io/images/sctip.gif" style="width:200px">
+<img src="http://pengyangraul.github.io/images/sctip.gif" style="width:300px">
 </dl>
 It is a prominent prediction that tunneling into a Majorana from a metallic lead produces
 a quantized zero-bias conductance peak at zero temperature. 
@@ -32,7 +32,7 @@ K. Franke and A. Yazdani.
 
 ## Signatures of topological Josephson junctions \[[Phys. Rev. B 94, 085409](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.085409)\]
 <dl>
-<img src="http://pengyangraul.github.io/images/tjj.gif" style="width:200px">
+<img src="http://pengyangraul.github.io/images/tjj.gif" style="width:300px">
 </dl>
 A fractional 4π Josephson effect is predicted to be one of the strongest indications of topological superconductivity.
 However, this effect is presumably difficult to observe due to quasiparticle poisoning processes and diabatic
@@ -44,7 +44,7 @@ junctions (e.g., by the Quantronics group in Paris), measurements on topological
 
 ## Spin Transmutation in Quantum Spin Hall Josephson Junctions \[[Phys. Rev. Lett. 117, 267001](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.267001)\]
 <dl>
-<img src="http://pengyangraul.github.io/images/transmutation.gif" style="width:200px">
+<img src="http://pengyangraul.github.io/images/transmutation.gif" style="width:300px">
 </dl>
 Superconductor/quantum spin Hall/superconductor junctions in the presence of a Zeeman field 
 are a prototypical setup for creating topological Josephson junctions. 
