@@ -13,11 +13,11 @@
 - title: "Publications"
   href: "/publications/"
 
-- title: "Topological Superconductors"
-  href: "/tsc/"
+#- title: "Topological Superconductors"
+#  href: "/tsc/"
 
 - title: "Research"
-href: "/research/"
+  href: "/research/"
 subcategories:
   - subtitle: "Topological Superconductor"
     subhref: "/research/tsc/"
