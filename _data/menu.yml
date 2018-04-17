@@ -18,7 +18,7 @@
 
 - title: "Research"
   href: "/research/"
-subcategories:
+  subcategories:
   - subtitle: "Topological Superconductor"
     subhref: "/research/tsc/"
   - subtitle: "Higher-order topological insulator"
