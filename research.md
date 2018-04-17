@@ -5,6 +5,6 @@ permalink: /research/
 ---
 
 ### I'm currently interested in:
-1. [tqp](/research/tqp/) (Time-quasiperiodic topological effects)
-1. [hti](/research/hti/) (Higher-order topological insulator)
-1. [tsc](/research/tsc/) (Topological Superconductor)
+1. [Time-quasiperiodic topological effects](/research/tqp/)
+1. [Higher-order topological insulator](/research/hti/)
+1. [Topological Superconductor](/research/tsc/)
