@@ -3,6 +3,10 @@ layout: page
 title: PUBLICATIONS 
 permalink: /publications/
 ---
+1. **Yang Peng** and Yong Xu, *Proximity-induced Majorana hinge modes in antiferromagnetic topological insulators*,
+[arXiv:1805.01896, 2018](https://arxiv.org/abs/1809.09112)
+1. **Yang Peng** and Gil Refael, *Majorana Multiplexing*, 
+[arXiv:1805.01896, 2018](https://arxiv.org/abs/1805.01896)
 1. **Yang Peng** and Gil Refael, *Topological energy conversion through the bulk or the boundary of driven systems*,
     [Phys. Rev. B 97, 134303, 2018](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.134303)
 1. Michael Ruby, Benjamin W. Heinrich, **Yang Peng**, Felix von Oppen, and Katharina J. Franke,
