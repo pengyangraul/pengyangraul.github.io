@@ -3,8 +3,10 @@ layout: page
 title: PUBLICATIONS 
 permalink: /publications/
 ---
+1. **Yang Peng** and Gil Refael, *Floquet second-order topological insulators from nonsymmorphic space-time symmetries*, 
+[arxiv:1811.11752, 2018](https://arxiv.org/abs/1811.11752)
 1. **Yang Peng** and Yong Xu, *Proximity-induced Majorana hinge modes in antiferromagnetic topological insulators*,
-[arXiv:1805.01896, 2018](https://arxiv.org/abs/1809.09112)
+[arXiv:1809.09112, 2018](https://arxiv.org/abs/1809.09112)
 1. **Yang Peng** and Gil Refael, *Majorana Multiplexing*, 
 [arXiv:1805.01896, 2018](https://arxiv.org/abs/1805.01896)
 1. **Yang Peng** and Gil Refael, *Topological energy conversion through the bulk or the boundary of driven systems*,
