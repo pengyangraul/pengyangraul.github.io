@@ -3,12 +3,16 @@ layout: page
 title: PUBLICATIONS 
 permalink: /publications/
 ---
+1. Youngjoon Choi, Jeannette Kemmer, **Yang Peng**, Alex Thomson, Harpreet Arora, Robert Polski, Yiran Zhang, 
+Hechen Ren, Jason Alicea, Gil Refael, Felix von Oppen, Kenji Watanabe, Takashi Taniguchi and Stevan Nadj-Perge, 
+*Imaging Electronic Correlations in Twisted Bilayer Graphene near the Magic Angle*, 
+[arXiv:1901.02997, 2019](https://arxiv.org/abs/1901.02997)
 1. **Yang Peng** and Gil Refael, *Floquet second-order topological insulators from nonsymmorphic space-time symmetries*, 
 [arxiv:1811.11752, 2018](https://arxiv.org/abs/1811.11752)
 1. **Yang Peng** and Yong Xu, *Proximity-induced Majorana hinge modes in antiferromagnetic topological insulators*,
 [arXiv:1809.09112, 2018](https://arxiv.org/abs/1809.09112)
-1. **Yang Peng** and Gil Refael, *Majorana Multiplexing*, 
-[arXiv:1805.01896, 2018](https://arxiv.org/abs/1805.01896)
+1. **Yang Peng** and Gil Refael, *Time-quasiperiodic topological superconductors with Majorana multiplexing*, 
+[Phys. Rev. B 98, 220509(R), 2018](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220509)
 1. **Yang Peng** and Gil Refael, *Topological energy conversion through the bulk or the boundary of driven systems*,
     [Phys. Rev. B 97, 134303, 2018](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.134303)
 1. Michael Ruby, Benjamin W. Heinrich, **Yang Peng**, Felix von Oppen, and Katharina J. Franke,
