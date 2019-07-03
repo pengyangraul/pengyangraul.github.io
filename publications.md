@@ -8,9 +8,9 @@ Hechen Ren, Jason Alicea, Gil Refael, Felix von Oppen, Kenji Watanabe, Takashi T
 *Imaging Electronic Correlations in Twisted Bilayer Graphene near the Magic Angle*, 
 [arXiv:1901.02997, 2019](https://arxiv.org/abs/1901.02997)
 1. **Yang Peng** and Gil Refael, *Floquet second-order topological insulators from nonsymmorphic space-time symmetries*, 
-[arxiv:1811.11752, 2018](https://arxiv.org/abs/1811.11752)
+[Phys. Rev. Lett. 123, 016806](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.016806)
 1. **Yang Peng** and Yong Xu, *Proximity-induced Majorana hinge modes in antiferromagnetic topological insulators*,
-[arXiv:1809.09112, 2018](https://arxiv.org/abs/1809.09112)
+[Phys. Rev. B 99, 195431, 2019](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.195431)
 1. **Yang Peng** and Gil Refael, *Time-quasiperiodic topological superconductors with Majorana multiplexing*, 
 [Phys. Rev. B 98, 220509(R), 2018](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.220509)
 1. **Yang Peng** and Gil Refael, *Topological energy conversion through the bulk or the boundary of driven systems*,
