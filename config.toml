@@ -1,3 +1,80 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "http://pengyangraul.github.io"
+title = "YP-HOME"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Yang Peng"
+  info = "Assistant Professor at California State University, Northridge (CSUN)"
+  description = "Yang Peng's personal website"
+  keywords = "physics, quantum, personal"
+  avatarurl = "images/avatar.jpg"
+# 
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+# 
+  since = 2022
+# 
+  enableTwemoji = true
+# 
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  katex = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+    url = "mailto:yang.peng@csun.com"
+    icon = "fa fa-paper-plane fa-2x"
+    weight = 0
+    
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/pengyangraul/"
+
+[[params.social]]
+  name = "Google Scholar"
+  icon = "fa fa-google fa-2x"
+  weight = 2
+  url = "https://scholar.google.com/citations?user=8ZbDNhcAAAAJ&hl=en"
+
+
+[[params.social]]
+  name = "California State University, Northridge"
+  icon = "fa fa-university fa-2x"
+  weight = 3
+  url = "https://www.csun.edu/"
+
+# Menu links
+[[menu.main]]
+  name = "CV"
+  weight = 1
+  url  = "cv/"
+[[menu.main]]
+  name = "Teaching"
+  weight = 2
+  url = "teaching"
+[[menu.main]]
+  name = "Publications"
+  weight = 3
+  url = "publications"
+[[menu.main]]
+  name = "Research"
+  weight = 4
+  url = "research"
+
+
