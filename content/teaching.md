@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 ### Teaching at CSUN
-- PHYS 490: Computer Applications in Physics, 2022 Fall
+- [PHYS 490: Computer Applications in Physics, 2022 Fall](https://pengyangraul.github.io/phys490/)
 - PHYS 651: Quantum Mechanics II, 2022 Spring
 - PHYS 650: Quantum Mechanics I, 2021 Fall
 - PHYS 651: Quantum Mechanics II, 2021 Spring
