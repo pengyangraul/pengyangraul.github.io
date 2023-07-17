@@ -4,7 +4,8 @@ permalink: /publications/
 ---
 My publications and citation information can be found at [Google Scholar](https://scholar.google.de/citations?user=8ZbDNhcAAAAJ&hl=en).
 
-
+1. A Bernard, **Y Peng**, A Kasumov, R Deblock, M Ferrier, F Fortuna, VT Volkov, Yu A Kasumov, Y Oreg, F von Oppen, H Bouchiat, S Guéron, *Long-lived Andreev states as evidence for protected hinge modes in a bismuth nanoring Josephson junction*, [Nature Physics, **19**, 358–364, 2023](https://www.nature.com/articles/s41567-022-01858-8)
+1. Yiran Zhang, Robert Polski, Cyprian Lewandowski, Alex Thomson, **Yang Peng**, Youngjoon Choi, Hyunjin Kim, Kenji Watanabe, Takashi Taniguchi, Jason Alicea, Felix von Oppen, Gil Refael, and Stevan Nadj-Perge, *Promotion of superconductivity in magic-angle graphene multilayers*, [Science, **377**(6614):  1538-1543, 2022](https://www.science.org/doi/abs/10.1126/science.abn8585)
 1. **Yang Peng**, *Topological Space-Time Crystal*, [Phys. Rev. Lett. **128**, 186802, 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.186802)
 1. Zihao Qi, Gil Refael, and **Yang Peng**, *Universal nonadiabatic energy pumping in a quasiperiodically driven extended system*, [Phys. Rev. B **104**, 224301, 2021](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.224301)
 1. Youngjoon Choi, Hyunjin Kim, Cyprian Lewandowski, **Yang Peng**, Alex Thomson, Robert Polski, Yiran Zhang, Kenji Watanabe, Takashi Taniguchi, Jason Alicea and Stevan Nadj-Perge, *Interaction-driven Band Flattening and Correlated Phases in Twisted Bilayer Graphene*, [Nature Physics **17**, 1375–1381, 2021](https://www.nature.com/articles/s41567-021-01359-0)
