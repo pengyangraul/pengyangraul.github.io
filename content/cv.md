@@ -9,9 +9,12 @@ permalink: /cv/
 
 ## Current Appointment
 California State University, Northridge (Northridge, CA, USA)
-- Assistant Professor: Jan. 2020 – Present
+- Associate Professor: June. 2025 - Present
 
 ## Previous Experiences
+- California State University, Northridge (Northridge, CA, USA)
+  * Assistant Professor: Jan. 2020 – June. 2025
+
 - California Institute of Technology (Pasadena, CA, USA)
   * Sherman Fairchild Postdoctoral Fellow in Theoretical Physics: Sep. 2017 – Jan. 2020
 

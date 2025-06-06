@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Yang Peng"
-  info = "Assistant Professor at California State University, Northridge (CSUN)"
+  info = "Associate Professor at California State University, Northridge (CSUN)"
   description = "Yang Peng's personal website"
   keywords = "physics, quantum, personal"
   avatarurl = "images/avatar.jpg"
