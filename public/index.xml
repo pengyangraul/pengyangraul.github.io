@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YP-PHYSICS</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on YP-PHYSICS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Contact info Link to heading Email: yang.peng@csun.edu Current Appointment Link to heading California State University, Northridge (Northridge, CA, USA)&#xA;Associate Professor: June. 2025 - Present Previous Experiences Link to heading California State University, Northridge (Northridge, CA, USA)&#xA;Assistant Professor: Jan. 2020 – June. 2025 California Institute of Technology (Pasadena, CA, USA)&#xA;Sherman Fairchild Postdoctoral Fellow in Theoretical Physics: Sep. 2017 – Jan. 2020 Fachbereich Physik, Freie Universität Berlin (Berlin, Germany)</description>
+    </item>
+    <item>
+      <title>PUBLICATIONS</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>My publications and citation information can be found at Google Scholar.&#xA;A Bernard, Y Peng, A Kasumov, R Deblock, M Ferrier, F Fortuna, VT Volkov, Yu A Kasumov, Y Oreg, F von Oppen, H Bouchiat, S Guéron, Long-lived Andreev states as evidence for protected hinge modes in a bismuth nanoring Josephson junction, Nature Physics, 19, 358–364, 2023 Yiran Zhang, Robert Polski, Cyprian Lewandowski, Alex Thomson, Yang Peng, Youngjoon Choi, Hyunjin Kim, Kenji Watanabe, Takashi Taniguchi, Jason Alicea, Felix von Oppen, Gil Refael, and Stevan Nadj-Perge, Promotion of superconductivity in magic-angle graphene multilayers, Science, 377(6614): 1538-1543, 2022 Yang Peng, Topological Space-Time Crystal, Phys.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>I am a condensed matter theorist interested in topological states of matter as well as their quantum dynamics. Particularly, I investigate the effect of the interplay between symmetry and topology of quantum systems on their static and dynamical properties. I am also interested in collaborating with experimentalists to understand STM and quantum transport measurements on different quantum materials.&#xA;Specifically, I am current working on: Link to heading Topological phenomena in out-of-equilibrium quantum system Nonequilibrium quantum dynamics in general Interplay between symmetries and topology in quantum system 2D Morie materials </description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description> Teaching at CSUN Link to heading PHYS 490: Computer Applications in Physics, 2022 Fall PHYS 651: Quantum Mechanics II, 2022 Spring PHYS 650: Quantum Mechanics I, 2021 Fall PHYS 651: Quantum Mechanics II, 2021 Spring PHYS 585: Computational material theory, 2020 Fall Teaching Assistant at FU-Berlin Link to heading Theoretical Solid State Physics, Sommersemester 2017 Quantum Field Theory and Many Body Physics, Sommersemester 2016 Quantum Field Theory and Many Body Physics, Sommersemester 2015 </description>
+    </item>
+  </channel>
+</rss>
