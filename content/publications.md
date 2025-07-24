@@ -3,7 +3,18 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 My publications and citation information can be found at [Google Scholar](https://scholar.google.de/citations?user=8ZbDNhcAAAAJ&hl=en).
-
+1. Sen Niu, Jason Alicea, D.N. Sheng, **Yang Peng**, *Quantum anomalous Hall effects and Hall crystals at fractional filling of helical trilayer graphene*, [arXiv:2505.24146, 2025](https://arxiv.org/abs/2505.24146)
+1. Sen Niu, **Yang Peng**, and D. N. Sheng, *Quantum phase diagram and non-Abelian Moore-Read state in double twisted bilayer graphene*, [Phys. Rev. B 112, 035415, 2025](https://journals.aps.org/prb/abstract/10.1103)
+1. Harald Schmid, **Yang Peng**, Gil Refael, Felix von Oppen, *Self-Similar Phase Diagram of the Fibonacci-Driven Quantum Ising Model*,
+[Phys. Rev. Lett. **134**, 240404, 2025](https://journals.aps.org/prl/abstract/10.1103/)
+1. Ilyoun Na, Jack Kemp, Sinéad M. Griffin, **Yang Peng**, *Engineering micromotion in Floquet
+prethermalization via space-time symmetries*, [arXiv:2412.09577, 2024](https://arxiv.org/abs/2412.09577)
+1. Prakash Sharma, **Yang Peng**, D. N. Sheng, *Topological quantum phase transitions driven by a
+displacement field in twisted ${\mathrm{MoTe}}_{2}$ bilayers*,
+[Phys. Rev. B **110**, 125142, 2024} (Editor's Suggestion)](https://link.aps.org/doi/10.1103/PhysRevB.110.125142)
+1. Zihao Qi, Ilyoun Na, Gil Refael, **Yang Peng**, *Real-space topological invariant for
+time-quasiperiodic Majorana modes*,[Phys. Rev. B **110**, 014309, 2024 (Editor's Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014309)
+1. Ilyoun Na, Jack Kemp, Sinéad M. Griffin, Robert-Jan Slager, **Yang Peng**. *Floquet gap-dependent topological classifications from color-decorated frequency lattices with space-time symmetries*, [Phys. Rev. B **108**, L180302, 2023](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L180302)
 1. A Bernard, **Y Peng**, A Kasumov, R Deblock, M Ferrier, F Fortuna, VT Volkov, Yu A Kasumov, Y Oreg, F von Oppen, H Bouchiat, S Guéron, *Long-lived Andreev states as evidence for protected hinge modes in a bismuth nanoring Josephson junction*, [Nature Physics, **19**, 358–364, 2023](https://www.nature.com/articles/s41567-022-01858-8)
 1. Yiran Zhang, Robert Polski, Cyprian Lewandowski, Alex Thomson, **Yang Peng**, Youngjoon Choi, Hyunjin Kim, Kenji Watanabe, Takashi Taniguchi, Jason Alicea, Felix von Oppen, Gil Refael, and Stevan Nadj-Perge, *Promotion of superconductivity in magic-angle graphene multilayers*, [Science, **377**(6614):  1538-1543, 2022](https://www.science.org/doi/abs/10.1126/science.abn8585)
 1. **Yang Peng**, *Topological Space-Time Crystal*, [Phys. Rev. Lett. **128**, 186802, 2022](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.186802)
